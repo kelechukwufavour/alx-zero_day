@@ -1,0 +1,5 @@
+#!bin/bash
+echo "school"
+git add.
+git commit -m "starting to code today,so cool"
+git push
